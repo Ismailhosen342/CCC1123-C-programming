@@ -69,7 +69,4 @@ By the end of this course, students will be able to:
 The skills gained in this course are essential for success in the field of **data science and computing**.
 
 
-
-* Make it **shorter**
-* Add **installation & compiler steps**
-* Customize it for **GitHub submission** 👍
+ 
