@@ -2,7 +2,7 @@
 
 ---
 
-<div">🚀 CCC1123 – C Programming
+<div>🚀 CCC1123 – C Programming
 
 Problem Solving & Computer Fundamentals
 
