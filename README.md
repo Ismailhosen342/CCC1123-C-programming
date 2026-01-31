@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">🚀 CCC1123 – C Programming
+<div">🚀 CCC1123 – C Programming
 
 Problem Solving & Computer Fundamentals
 
@@ -176,7 +176,7 @@ This course builds a solid foundation for:
 
 ---
 
-<div align="center">✨ Happy Coding! ✨
+<div>✨ Happy Coding! ✨
 C is the beginning of logical programming.
 
 </div>
