@@ -51,7 +51,7 @@ void arrayoddeven()
     printf("%d ", odd[i]);
   }
   printf("\nThe even number is:");
-  for (int i = 0; i < ocount; i++)
+  for (int i = 0; i < ecount; i++)
   {
     printf("%d ", even[i]);
   }
