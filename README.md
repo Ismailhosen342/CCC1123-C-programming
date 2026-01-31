@@ -1,36 +1,36 @@
-
-
----
-
+ 
 <div>🚀 CCC1123 – C Programming
 
 Problem Solving & Computer Fundamentals
 
-📘 Bachelor of Data Science · Semester 1
+📘 Bachelor of Data Science | Semester 1
 
 </div>
 ---
 
-📖 About This Repository
+📖 Repository Overview
 
-This repository contains all C programming concepts and topics covered in CCC1123, along with complete laboratory exercises, practice programs, and assignments completed during the course.
+Item	Description
 
-✔ Beginner-friendly
-✔ Well-structured
-✔ Practice-oriented
+📚 Course Code	CCC1123
+💻 Language	C Programming
+🎓 Program	Bachelor of Data Science
+🧑‍🎓 Level	Beginner
+📂 Contents	All topics, lab exercises & practice programs
+
+
+This repository contains all C programming concepts covered in the course, including every lab and practice program completed during the semester.
 
 
 ---
 
 🎯 Course Objectives
 
-By completing this course, students learn to:
+Objective No.	Description
 
-🧠 Think logically and analytically
-
-💻 Understand how C programs are written and executed
-
-🛠 Build a strong foundation in programming and problem solving
+1️⃣	Understand how computer programs are structured and executed
+2️⃣	Build a strong foundation in C programming
+3️⃣	Develop logical thinking and problem-solving skills
 
 
 
@@ -38,138 +38,103 @@ By completing this course, students learn to:
 
 🧩 Concepts & Topics Covered
 
-🔹 Programming Basics
+🔹 Core C Programming Concepts
 
-Program structure & syntax
+Category	Topics
 
-Variables, constants & data types
-
-Operators & expressions
-
-
-🔹 Input / Output
-
-printf() and scanf()
-
-Formatted input and output
-
-
-🔹 Decision Making
-
-if
-
-if-else
-
-Nested if
-
-switch-case
-
-
-🔹 Looping
-
-for
-
-while
-
-do-while
-
-Loop control (break, continue)
-
-
-🔹 Functions
-
-Function declaration & definition
-
-Function prototypes
-
-Call by value
-
-Modular programming
-
-
-🔹 Arrays & Strings
-
-1D and 2D arrays
-
-String handling functions
-
-Character arrays
-
-
-🔹 Pointers & Memory
-
-Basic pointer concepts
-
-Address and value access
-
-Memory fundamentals
-
-
-🔹 File Handling
-
-File open & close
-
-Reading and writing files
-
-Basic file operations
-
-
-🔹 Debugging & Logic
-
-Error handling
-
-Logical problem solving
-
-Step-by-step algorithm thinking
+🔤 Basics	Program structure, syntax
+📦 Data	Variables, constants, data types
+➗ Operators	Arithmetic, relational, logical
+⌨️ Input/Output	printf(), scanf()
 
 
 
 ---
 
-🧪 Practical Work Included
+🔹 Control Structures
 
-📂 This repository includes:
+Type	Covered Topics
 
-✅ All lab exercises
-
-✅ Practice programs
-
-✅ Assignment solutions
-
-✅ C programs for concept mastery
+🔀 Decision Making	if, if-else, nested if, switch
+🔁 Looping	for, while, do-while
+🛑 Loop Control	break, continue
 
 
-Each program is written to strengthen coding confidence and problem-solving skills.
+
+---
+
+🔹 Functions & Modular Programming
+
+Concept	Description
+
+🧩 Functions	Declaration & definition
+📄 Prototypes	Function prototypes
+🔁 Parameter Passing	Call by value
+🏗 Modular Code	Reusable functions
+
+
+
+---
+
+🔹 Arrays, Strings & Pointers
+
+Topic	Details
+
+📊 Arrays	1D & 2D arrays
+🔡 Strings	Character arrays & string functions
+📍 Pointers	Basic pointers & memory concepts
+
+
+
+---
+
+🔹 File Handling & Debugging
+
+Area	Concepts
+
+📁 File Handling	File open/close, read/write
+🐞 Debugging	Error detection & correction
+🧠 Problem Solving	Algorithmic & logical thinking
+
+
+
+---
+
+🧪 Practical Work
+
+Activity	Included
+
+🧪 Lab Exercises	✅ Yes
+📝 Practice Programs	✅ Yes
+📂 Assignments	✅ Yes
+🧠 Problem Solving Tasks	✅ Yes
+
+
+All programs are written to strengthen logical thinking, coding confidence, and real-world problem-solving skills.
 
 
 ---
 
 🎓 Learning Outcomes
 
-After completing this course, students can:
+Outcome No.	Skills Gained
 
-Write structured and efficient C programs
-
-Apply programming concepts to solve real problems
-
-Understand how data and memory work in C
-
-Prepare for advanced computing courses
+1️⃣	Write structured and efficient C programs
+2️⃣	Solve basic programming problems
+3️⃣	Understand memory and data management
+4️⃣	Prepare for advanced programming courses
 
 
 
 ---
 
-🔮 What’s Next?
+🔮 Future Path
 
-This course builds a solid foundation for:
+Leads To
 
 📌 Data Structures
-
 📌 Algorithms
-
 📌 Advanced Programming
-
 📌 Data Science Applications
 
 
@@ -177,7 +142,8 @@ This course builds a solid foundation for:
 ---
 
 <div>✨ Happy Coding! ✨
-C is the beginning of logical programming.
+C programming builds the foundation of my logical thinking.
 
 </div>
----
+
+ 
