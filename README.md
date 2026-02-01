@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # 🚀 **CCC1123 – C Programming**
 
@@ -125,9 +125,9 @@ This course builds a strong foundation for:
 
 ---
 
-<div align="center">
+<div align="">
 
 ✨ **Happy Coding!** ✨
-*C programming builds the foundation of my logical thinking.*
+*Author: Ismail Hosen*
 
 </div>
