@@ -20,23 +20,25 @@ char str1[50],str2[50],str3[50];
 
 // Read two strings from the user and store it in str1 and str2.
 printf("Enter first string(Str1):");
-fgets(str1,50,stdin);
+// fgets(str1,50,stdin);
+scanf("%s",str1);
 printf("Enter second sting(str2):");
-fgets(str2,50,stdin);
+// fgets(str2,50,stdin);
+scanf("%s",str2);
 
 // Display the length of the first string using strlen().
 printf("Length of first strings:%d\n",strlen(str1));
 
 // Copy the first string into another string using strcpy().
 strcpy(str3,str1);
-printf("Copy string is(str3):%s",str3);
+printf("Copy string is(str3):%s\n",str3);
 
 // Compare the two strings using strcmp() and display the comparison result.
 // If both string are equal, display "Both strings are equal” otherwise
 // display "Both strings are NOT equal"
 int c;
 c=strcmp(str1,str3);
-if(c!=0){
+if(c==0){
   printf("Both are equal\n");
 }
 else{
