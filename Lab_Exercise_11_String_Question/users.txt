@@ -1,0 +1,4 @@
+admin 12345
+user1 abc123
+student pass789
+turai 123$ab
