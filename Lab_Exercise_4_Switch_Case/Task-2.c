@@ -10,7 +10,7 @@
 //      Enter first numbers :
 //      Enter second numbers :
 //      Result :
-
+// Mqake a basic calculator
 #include <stdio.h>
 int main()
 {
