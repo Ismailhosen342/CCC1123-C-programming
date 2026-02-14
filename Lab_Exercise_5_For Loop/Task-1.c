@@ -3,19 +3,45 @@
 // numbers from 1 to N. Also display the total count.
 
 #include <stdio.h>
-int main()
-{
-  int n, i, count = 0;
-  printf("Enter Your Number:");
-  scanf("%d", &n);
-  for (i = 1; i <= n; i++)
-  {
-    if (i % 2 == 0)
-    {
-      printf("%d\n", i);
-      count++;
-    }
-  }
-  printf("Total even numbers:%d", count);
+int main(){
+int num,count=0;
+printf("Enter your number:");
+scanf("%d",&num);
+
+for(int i=1;i<=num;i++){
+ if(i%2==0){
+  printf("%d\n",i);
+  count++;
+ }
+}
+
+printf("Total odd number is:%d",count);
+
+
   return 0;
 }
+
+
+
+
+
+
+
+
+
+// int main()
+// {
+//   int n, i, count = 0;
+//   printf("Enter Your Number:");
+//   scanf("%d", &n);
+//   for (i = 1; i <= n; i++)
+//   {
+//     if (i % 2 == 0)
+//     {
+//       printf("%d\n", i);
+//       count++;
+//     }
+//   }
+//   printf("Total even numbers:%d", count);
+//   return 0;
+// }
