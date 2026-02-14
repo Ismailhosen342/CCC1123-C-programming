@@ -50,3 +50,9 @@ printf("After concatenation:%s\n",str1);
 
 // Display clear output for each operation.
 }
+
+//strlen()
+//strcpy()
+//strcmp()
+//strcat()
+//Have to use #include<string.h>

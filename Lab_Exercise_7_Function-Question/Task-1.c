@@ -9,10 +9,13 @@
 
 #include <stdio.h>
 int a, b, sum; //  I use global variable
+
 void greet()
 {
   printf("Welcome\n");
 }
+
+
 void add()
 {
   printf("Enter first number:");
@@ -22,14 +25,24 @@ void add()
   sum = a + b;
   printf("Result:%d\n", sum);
 }
+
+
+
 void bye()
 {
-  printf("Good Bye!");
+  printf("Good Bye!\n");
 }
+void thank(){
+  printf("Thank you");
+}
+
+
 int main()
 {
-  greet();
+  greet();//Call function
   add();
   bye();
+  thank();
+
   return 0;
 }

@@ -84,3 +84,4 @@ int main()
 
   return 0;
 }
+//this is just basic calculator just use function and  switch case
